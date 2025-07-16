@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+PyPDF2
+requests
+openai
+firebase-admin
+python-dotenv 
